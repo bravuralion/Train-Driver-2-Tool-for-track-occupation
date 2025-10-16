@@ -47,7 +47,7 @@ brave://flags/#file-system-access-api
 
 ### 📦 Download
 
-You can download the web app from the release attachments.
+You can download the html file directly or via Releases
 
 ---
 
